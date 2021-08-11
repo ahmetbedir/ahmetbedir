@@ -45,15 +45,14 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  ![Ahmet Bedir GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmetbedir&show_icons=true&theme=gruvbox)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetbedir&layout=compact&show_icons=true&theme=gruvbox)
 
 </details>
 
 <br />
 <br />
 
-![Ahmet Bedir GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmetbedir&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetbedir&layout=compact&show_icons=true&theme=gruvbox)
 
 [website]: https://ahmetbedir.net
 [twitter]: https://twitter.com/ahmetbdr43
