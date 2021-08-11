@@ -29,7 +29,7 @@
 </br>
 </br>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ahmetbedir&show_icons=true&locale=en" alt="ahmetbedir" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ahmetbedir&show_icons=true&locale=en&boder=false" alt="ahmetbedir" /></p>
 </br>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetbedir&" alt="ahmetbedir" /></p>
 </br>
