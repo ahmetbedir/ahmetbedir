@@ -50,10 +50,6 @@
 
 </details>
 
-<br />
-<br />
-
-
 [website]: https://ahmetbedir.net
 [twitter]: https://twitter.com/ahmetbdr43
 [youtube]: https://youtube.com/ahmetbedir
