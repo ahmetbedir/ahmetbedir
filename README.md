@@ -22,7 +22,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#17](https://github.com/optimistdigital/nova-simple-repeatable/pull/17) in [optimistdigital/nova-simple-repeatable](https://github.com/optimistdigital/nova-simple-repeatable)
+1. 💪 Opened PR [#77](https://github.com/optimistdigital/nova-settings/pull/77) in [optimistdigital/nova-settings](https://github.com/optimistdigital/nova-settings)
 <!--END_SECTION:activity-->
 
 </details>
