@@ -22,7 +22,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#77](https://github.com/optimistdigital/nova-settings/issues/77) in [optimistdigital/nova-settings](https://github.com/optimistdigital/nova-settings)
+1. 💪 Opened PR [#139](https://github.com/dmitrybubyakin/nova-medialibrary-field/pull/139) in [dmitrybubyakin/nova-medialibrary-field](https://github.com/dmitrybubyakin/nova-medialibrary-field)
 <!--END_SECTION:activity-->
 
 </details>
