@@ -10,7 +10,7 @@
 <a href="https://codepen.io/ahmetbedir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ahmetbedir" height="30" width="40" /></a>
 <a href="https://dev.to/ahmetbedir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ahmetbedir" height="30" width="40" /></a>
 <a href="https://twitter.com/ahmetbdr43" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmetbdr43" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ahmet-bedir-14a54ba9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmet-bedir-14a54ba9/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ahmet-bedir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmet-bedir" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/6461313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6461313" height="30" width="40" /></a>
 </p>
 
