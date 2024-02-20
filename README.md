@@ -48,5 +48,7 @@
       </a>
     </div>
     <br>
-    <img src="https://activity-graph.herokuapp.com/graph?username=ahmetbedir&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+    <p align=center>
+      <a href="https://app.daily.dev/ahmetbedir"><img src="https://api.daily.dev/devcards/v2/6AVm35z7TdCHjMuJ2HMge.png?type=wide&r=55j" width="652" alt="Ahmet Bedir's Dev Card"/></a>
+    </p>
   </p>
